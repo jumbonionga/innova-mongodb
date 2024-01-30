@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://fernandoepg:XdnOZk0g3WQgEmpG@cluster0.vqvcyib.mongodb.net/innovaproyecto?retryWrites=true&w=majority
